@@ -1,2 +1,2 @@
-write something
+hopefully the conflict is fixed!
 add another line
